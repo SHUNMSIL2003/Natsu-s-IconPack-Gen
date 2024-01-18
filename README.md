@@ -22,6 +22,6 @@ when importing a .natsu.preset.zip:
 
 
 
-#EXPORT
+# EXPORT
 
 for now this exports all character icons to a normal .zip file
